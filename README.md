@@ -4,7 +4,7 @@ Material related to taking the course *Ultra-low Power Scalable Bluetooth LE Wea
 
 ## Required Tools
 
-The following hardware and software are mentioned to be needed during the course. Besides these there is obviously also a need for a PC to develop on, operating system requirements for the PC are currently unknown but recent Windows should work.
+The following hardware and software are mentioned to be needed during the course. Besides these there is obviously also a need for a PC to develop on, operating system requirements for the PC are currently unknown but any recent Windows version should work.
 
 ### Hardware
 
