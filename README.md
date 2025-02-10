@@ -29,3 +29,13 @@ The following hardware and software are mentioned to be needed during the course
   - Power Profiler Application
 - nRF Connect for Mobile
   - Bluetooth LE Central
+
+### WaveShare e-Paper Display
+
+Bought this e-Paper Display:
+
+[Waveshare 2.13" E-Paper Display Hat V4](https://amzn.eu/d/7DcYACz)
+
+Found the manual here:
+
+[2.13inch e-Paper HAT Manual](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT_Manual)
